@@ -4,19 +4,19 @@ body {
   font-family: Arial, sans-serif, monospace, "Lucida Sans",
     "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva,
     Verdana, Arial, Helvetica, sans-serif;
-  background-color: #d3e6cc;
+  background-color: #ade5ec;
 }
 .top-container {
   position: relative;
   padding-top: 100px;
-  background-color: #bfe7b1;
+  background-color: #11cdd4;
   text-align: center;
 }
 .middle-container {
   margin: 100px 0;
 }
 .bottom-container {
-  background-color: #bfe7b1;
+  background-color: #11cdd4;
   height: 70px;
   padding: 2rem;
 }
@@ -49,8 +49,8 @@ h1 {
   font-family: "Segoe print, cascadia code, monospace";
 }
 hr {
-  background-color: #d3e6cc;
-  border-color: rgb(122, 168, 236);
+  background-color: #ade5ec;
+  border-color: rgb(124, 122, 236);
   border-width: 8px;
   border-style: none;
   border-top-style: dotted;
@@ -169,11 +169,11 @@ h2 {
   text-decoration: none;
 }
 a{
-  color: #72c9e4;
+  color: #5754ee;
   margin: 10px 20px;
   text-decoration: none;
 }
 a:hover{
-  color: #1814ff;
-  
+  color: #ffffff;
+
 }
