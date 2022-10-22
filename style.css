@@ -12,21 +12,21 @@ body {
   background-color: #bfe7b1;
   text-align: center;
 }
-.middle-container{
+.middle-container {
   margin: 100px 0;
 }
-.bottom-container{
+.bottom-container {
   background-color: #bfe7b1;
-  height:70px;
-   padding: 2rem;
+  height: 70px;
+  padding: 2rem;
 }
-.footer-link{
+.footer-link {
   padding: 10px;
   font-family: sans-serif;
   font-size: 1.2rem;
   font-weight: bold;
 }
-#copy-right{
+#copy-right {
   font-family: sans-serif;
   font-weight: bold;
 }
@@ -38,21 +38,20 @@ h1 {
   margin: 50px auto 0 auto;
   color: #d64532;
 }
-#bio{
+#bio {
   color: #1f2423;
   width: 45%;
   margin: auto;
   line-height: 2rem;
 }
-#My-skills{
+#My-skills {
   font-size: 1.8rem;
   font-family: "Segoe print, cascadia code, monospace";
 }
-hr{
-
+hr {
   background-color: #d3e6cc;
   border-color: rgb(122, 168, 236);
-  border-width: 8px ;
+  border-width: 8px;
   border-style: none;
   border-top-style: dotted;
   height: 40%;
@@ -69,25 +68,24 @@ hr{
   right: 300px;
   top: 50px;
 }
-#cloud3{
+#cloud3 {
   position: absolute;
-  right:450px ;
+  right: 450px;
   bottom: 300px;
-
 }
-#cloud4{
+#cloud4 {
   position: absolute;
   right: 150px;
   bottom: 450px;
 }
-#cloud5{
+#cloud5 {
   position: absolute;
- left: 130px;
+  left: 130px;
   bottom: 150px;
 }
-#cloud6{
+#cloud6 {
   position: absolute;
- left: 100px;
+  left: 100px;
   bottom: 500px;
 }
 #saif {
@@ -102,56 +100,55 @@ hr{
 }
 #first_Paragraph {
   color: #1a17d8;
-  font-size: 1..5rem;
+  font-size: 1.5rem;
   font-family: cursive;
-   text-decoration: underline;
+  text-decoration: underline;
 }
 .skill-row {
-    padding:1.8rem;
+  padding: 1.8rem;
   width: 50%;
   margin: 40px auto 40px auto;
 }
 .dev {
-    margin-top: o;
-    float: left;
+  margin-top: o;
+  float: left;
   width: 25%;
 }
-.java{
-
-    float: right;
-    width: 25%;
+.java {
+  float: right;
+  width: 25%;
 }
-.type{
-    float: left;
-    width: 25%;
+.type {
+  float: left;
+  width: 25%;
 }
-.paragraph1{
+.paragraph1 {
   line-height: 2rem;
   text-align: right;
 }
-.paragraph2{
+.paragraph2 {
   line-height: 2rem;
-  text-align:left;
+  text-align: left;
 }
-.paragraph3{
+.paragraph3 {
   line-height: 2rem;
   text-align: right;
 }
-h2{
-  padding-bottom:10px;
+h2 {
+  padding-bottom: 10px;
 }
-.contact-me{
-  width:40%;
+.contact-me {
+  width: 40%;
   margin: auto;
   line-height: 2rem;
 }
 .btn {
-  background: #11cdd4 ;
-  background-image: -webkit-linear-gradient(top, #11cdd4 , #0e476b);
-  background-image: -moz-linear-gradient(top, #11cdd4 , #0e476b);
-  background-image: -ms-linear-gradient(top, #11cdd4 , #0e476b);
-  background-image: -o-linear-gradient(top, #11cdd4 , #0e476b);
-  background-image: linear-gradient(to bottom, #11cdd4 , #0e476b);
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #0e476b);
+  background-image: -moz-linear-gradient(top, #11cdd4, #0e476b);
+  background-image: -ms-linear-gradient(top, #11cdd4, #0e476b);
+  background-image: -o-linear-gradient(top, #11cdd4, #0e476b);
+  background-image: linear-gradient(to bottom, #11cdd4, #0e476b);
   -webkit-border-radius: 10;
   -moz-border-radius: 10;
   border-radius: 10px;
@@ -170,4 +167,13 @@ h2{
   background-image: -o-linear-gradient(top, #e659d6, #5a34d9);
   background-image: linear-gradient(to bottom, #e659d6, #5a34d9);
   text-decoration: none;
+}
+a{
+  color: #72c9e4;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #1814ff;
+  
 }
